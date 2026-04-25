@@ -1,0 +1,19 @@
+{
+  "id": "approval_ec6f35a0-e24b-4dd3-8887-6d889c990695",
+  "action": {
+    "id": "approval_ec6f35a0-e24b-4dd3-8887-6d889c990695",
+    "provider": "ConduitOS Policy Gate",
+    "action": "requestApproval",
+    "status": "mocked_pending",
+    "timestamp": "2026-05-31T06:38:46.089Z",
+    "payload": {
+      "mission": "sample-incident-response",
+      "riskTier": "high",
+      "requestedActions": [
+        "change production configuration",
+        "notify customers",
+        "close incident"
+      ]
+    }
+  }
+}
