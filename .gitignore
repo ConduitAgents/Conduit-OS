@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+data/runs/*.json
+data/memory/*.json
+data/artifacts/*.json
+data/provider-actions/*.json
+coverage/
