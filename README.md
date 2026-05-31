@@ -1,5 +1,7 @@
 # ConduitOS
 
+```4LjHBwPfA2EE4Ayw4wtBYDT11U4iQastfRgRUQHypump```
+
 ConduitOS is an operating layer for autonomous agents. It routes missions through specialist agents, controls tool authority, pauses risky actions for approval, records replayable traces, and writes outcomes into memory so future runs have better context.
 
 Think of ConduitOS as mission control for agent fleets: work enters the system, gets decomposed into stages, moves through policy gates, and leaves behind an inspectable operational record.
